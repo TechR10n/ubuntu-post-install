@@ -1,0 +1,20 @@
+to: k401k and Martin and Jeanne
+1. 401k credentials
+2. I am not able to access namely. I cannot access all documents that are on namely (paystubs, insurance documents, retirement documents, etc.). Since I cannot see all of the available documents...
+
+
+* Resume
+** Talking Rain
+- Pick every Databricks Academy training summary. Copy/paste all summaries and then wittle it down.
+- Consumer packaged goods industry: All data practices for distributino
+  - Walmart Retail-link, Target (list each...especially Amazon)
+  - Media Dashboard: Facebook Ads, Google Ads, 
+  - Salesforce
+- Machine Learning Pipelines:
+1. Retail Shelf Placement: Fed Observa and Shelvspace pipelines.
+2. Sales Team Store Visit Optimization
+- PowerBI Pipelines
+- Anaplan: Enterprise Planning and Modeling
+** Washington Mutual
+** Hobbies
+- Web Development

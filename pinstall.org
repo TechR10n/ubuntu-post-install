@@ -1,0 +1,33 @@
+#+TITLE: Post-install Script
+
+* The script
+#+BEGIN_SRC sh
+
+sudo apt install \
+r-cran-ggplot2 \
+ubuntu-restricted-addons
+ubuntu-restricted-extras
+
+* Latex
+- texmaker
+- emacs
+- gdebi
+- insynchq
+- texlive-latex-extra
+- texlive-publishers
+- pandoc
+- texlive-music
+- texlive-humanities
+
+
+#+END_SRC
+
+* surface-linux
+
+* Java 8 Selection
+* Emacs Config file
+* miniconda
+*  r-lang
+- wget rstudio
+* postgresql
+- wget 
